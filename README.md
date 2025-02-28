@@ -1,7 +1,7 @@
 # Hello, I'm Greeshma Bellamkonda! 👋
 
 ## About Me
-I am a Full Stack Developer with a solid foundation in Java and MERN stack technologies, dedicated to creating scalable and user-friendly applications. My passion for technology drives me to continuously learn and innovate, particularly in computer architecture and system design.
+Full Stack Developer with a solid foundation in Java and MERN stack technologies, dedicated to creating scalable and user-friendly applications. Driven by a keen interest in computer architecture and system design, with a passion for optimizing software performance.
 
 ## Skills 🛠️
 - **Languages**: 
