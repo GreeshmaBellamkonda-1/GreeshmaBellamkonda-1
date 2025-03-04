@@ -3,6 +3,13 @@
 ## About Me
 Full Stack Developer with a solid foundation in Java and MERN stack technologies, dedicated to creating scalable and user-friendly applications. Driven by a keen interest in computer architecture and system design, with a passion for optimizing software performance.
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=greeshmabellamkonda-1&show_icons=true&locale=en&layout=compact" alt="greeshmabellamkonda-1" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=greeshmabellamkonda-1&show_icons=true&locale=en" alt="greeshmabellamkonda-1" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=greeshmabellamkonda-1&" alt="greeshmabellamkonda-1" /></p>
+
 ## Skills 🛠️
 - **Languages**: 
   - <img src="https://img.icons8.com/color/20/000000/java-coffee-cup-logo.png" alt="Java" /> Java
@@ -40,3 +47,5 @@ I am passionate about data analysis and leveraging cutting-edge AI tools to enha
 - **Email**: [greeshma19770@gmail.com](mailto:greeshma19770@gmail.com)
 - **LinkedIn**: [Greeshma Bellamkonda](https://www.linkedin.com/in/greeshma-bellamkonda-563598234/)
 - **GitHub**: [GreeshmaBellamkonda-1](https://github.com/GreeshmaBellamkonda-1)
+
+
