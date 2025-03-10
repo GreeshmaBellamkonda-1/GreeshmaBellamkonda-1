@@ -18,6 +18,9 @@ Dynamic Full Stack Developer skilled in Java and MERN stack technologies, dedica
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=greeshmabellamkonda-1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+## 🏆 LeetCode Stats
+[![jetsai's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=greeshma_153&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -26,8 +29,8 @@ Dynamic Full Stack Developer skilled in Java and MERN stack technologies, dedica
 
 ## 📫 Contact Me
 Feel free to reach out via:
-- [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/greeshma-bellamkonda-563598234/))
-- [Twitter]([https://twitter.com/your-twitter-handle](https://x.com/Greeshma475))
+- [LinkedIn](https://www.linkedin.com/in/greeshma-bellamkonda-563598234/)
+- [Twitter](https://twitter.com/Greeshma475)
 - [Email](mailto:greeshma19770@gmail.com)
 
 ---
